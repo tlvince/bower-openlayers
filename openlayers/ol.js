@@ -2,7 +2,7 @@
 // License: https://raw.githubusercontent.com/openlayers/ol3/master/LICENSE.md
 // Version: v3.17.1
 
-(function (root, factory) {
+;(function (root, factory) {
   if (typeof exports === "object") {
     module.exports = factory();
   } else if (typeof define === "function" && define.amd) {
